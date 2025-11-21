@@ -2,8 +2,6 @@ import React, { useEffect, useRef, useState } from 'react';
 import './App.css';
 
 //basic structure
-
-
 import birdImg from "./images/bird.png";
 import pipeTopImg from "./images/pipe-top.png";
 import pipeBottomImg from "./images/pipe-bottom.png";
