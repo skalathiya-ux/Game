@@ -168,11 +168,14 @@ function App() {
   }
 
   return (
+    // Added image of birds and pipe and seted proper structure.
     <div className="game-wrapper">
       <h2>Flappy Bird — React Version</h2>
 
       <div className="game-box" style={{ width: GAME_WIDTH, height: GAME_HEIGHT }}>
 
+
+      
         {/* Bird */}
         <img
           src={birdImg}
