@@ -6,7 +6,7 @@ html, body, #root {
   padding: 0;
 }
 body {
-  background: #f3f7f7;
+  background: #000e0e;
   display: flex;
   justify-content: center;
   align-items: flex-start;
